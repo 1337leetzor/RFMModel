@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.py
+joelRFMPackage/__init__.py
+joelRFMPackage/calculateRFMscores.py
+joelRFMPackage.egg-info/PKG-INFO
+joelRFMPackage.egg-info/SOURCES.txt
+joelRFMPackage.egg-info/dependency_links.txt
+joelRFMPackage.egg-info/requires.txt
+joelRFMPackage.egg-info/top_level.txt
